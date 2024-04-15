@@ -1,30 +1,27 @@
-## 开发
+20基于springboot+vue的农产品销售系统
 
-```bash
-# 克隆项目
-git clone https://gitee.com/y_project/RuoYi-Vue
+【技术栈】
+1.架构：B/S、MVC
+2.系统环境：windows/mac
+3.开发环境：IDEA2021.2，JDK1.8、Maven、Mysql,tomcat
+4.技术栈：java,Mysql,SprintBoot,vue,tomcat
 
-# 进入项目目录
-cd ruoyi-ui
+【功能模块】
+每个项目都有登陆功能，分普通用户，商家及管理员。具体功能可见结构图
 
-# 安装依赖
-npm install
 
-# 建议不要直接使用 cnpm 安装依赖，会有各种诡异的 bug。可以通过如下操作解决 npm 下载速度慢的问题
-npm install --registry=https://registry.npmmirror.com
 
-# 启动服务
-npm run dev
-```
+![输入图片说明](%E6%9E%9C%E8%94%AC/public/html/%E6%9E%9C%E8%94%AC1.jpg)
+![输入图片说明](%E6%9E%9C%E8%94%AC/public/html/%E6%9E%9C%E8%94%AC2.jpg)
+![输入图片说明](%E6%9E%9C%E8%94%AC/public/html/%E6%9E%9C%E8%94%AC3.jpg)
+![输入图片说明](%E6%9E%9C%E8%94%AC/public/html/%E6%9E%9C%E8%94%AC4.jpg)
+![输入图片说明](%E6%9E%9C%E8%94%AC/public/html/%E6%9E%9C%E8%94%AC5.jpg)
+![输入图片说明](%E6%9E%9C%E8%94%AC/public/html/%E6%9E%9C%E8%94%AC7.jpg)
 
-浏览器访问 http://localhost:80
 
-## 发布
 
-```bash
-# 构建测试环境
-npm run build:stage
 
-# 构建生产环境
-npm run build:prod
-```
+
+
+
+需要本系统联系vx: MaKaBaca0
